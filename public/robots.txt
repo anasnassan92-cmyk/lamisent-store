@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /account
+Disallow: /auth
+
+Sitemap: https://lamisent.com/sitemap.xml
